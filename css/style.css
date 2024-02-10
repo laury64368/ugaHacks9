@@ -714,5 +714,19 @@ a:focus {
   float: right;
   margin-right: 10px; /* Adjust the margin as needed */
 }
+
+.create_box {
+  display: flex;
+  justify-content: center;
+}
+
+.checking_box {
+  display: flex;
+  justify-content: center;
+}
+.saving_box {
+  display: flex;
+  justify-content: center;
+}
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
