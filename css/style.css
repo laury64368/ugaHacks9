@@ -718,15 +718,18 @@ a:focus {
 .create_box {
   display: flex;
   justify-content: center;
+  align-content: center;
 }
 
 .checking_box {
   display: flex;
   justify-content: center;
+  align-content: center;
 }
 .saving_box {
   display: flex;
   justify-content: center;
+  align-content: center;
 }
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
