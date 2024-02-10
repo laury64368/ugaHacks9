@@ -710,5 +710,9 @@ a:focus {
   color: #fbfcfd;
 }
 
+#google_translate_element {
+  float: right;
+  margin-right: 10px; /* Adjust the margin as needed */
+}
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
